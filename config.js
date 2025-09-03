@@ -1,0 +1,23 @@
+export const nameBand = 'ENIGMA';
+export let nameSongs = [
+	"RETURN TO INNOCENCE", /*1*/
+	"I LOVE YOU... I'LL KILL YOU", /*2*/
+	"SILENT WARRIOR", /*3*/
+	"OUT FROM THE DEEP", /*4*/
+	"THE EYES OF TRUTH", /*5*/
+	"HALO ON FIRE", /*6*/
+	" MEA CULPA", /*7*/
+	"GRAVITY OF LOVE", /*8*/
+	"BEYOND THE INVISIBLE", /*9*/
+	"PRINCIPLES OF LUST", /*10*/
+	"T.N.T. FOR THE BRAIN", /*11*/
+	"AGE OF LONELINESS ", /*12*/
+	"PUSH THE LIMITS", /*13*/
+	"SMELL OF DESIRE", /*14*/
+	"SILENCE MUST BE HEARD", /*15*/
+	"MODERN CRUSADERS", /*16*/
+	"VOYAGEUR", /*17*/
+	"THE ROUNDABOUT", /*18*/
+	"INVISIBLE LOVE", /*19*/
+	"THE CROSS OF CHANGES", /*20*/
+]
